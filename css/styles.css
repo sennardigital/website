@@ -137,6 +137,21 @@
 	display: block;
 }
 
+.inner-footer-content{
+	padding: 30px;
+
+}
+
+.middle-footer-content{
+	padding: 30px;
+
+}
+
+.outer-footer-content{
+	padding: 30px;
+
+}
+
 .footer-ul { 
 	list-style-type:none;  
 	padding-left:0; 
