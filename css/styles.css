@@ -1,0 +1,169 @@
+.header-dispaly{
+	width: 100%;
+}
+
+.horizontal-divide{
+	height: 0.5px;
+	background-color: #E9E9E9;
+}
+
+.body-display-jumbotron{
+	padding: 20px;
+}
+
+.body-display{
+	background-color: #F3F3F3;
+	width: 100%;
+	padding: 20px;
+}
+.footer-display{
+	background-color: #292929;
+	padding: 20px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.footer-display-content{
+
+}
+
+.footer-image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.description{
+	font-size: 15px;
+	text-align: center;
+	color: #B4B4B4;
+}
+
+.email-address{
+	color: #B4B4B4;
+	font-size: 15px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+
+}
+
+.location-address{
+	color: #B4B4B4;
+	font-size: 15px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.general-links{
+	color: #ABABAB;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.latest-information{
+	color: #ABABAB;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.latest-information-description{
+	color: #707070 ;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 15px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.latest-information-description-date{
+	color: #A2A2A2;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 12px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.social-desc{
+	color: #B4B4B4;
+	font-size: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 20px;
+
+}
+
+.instagram-icon{
+	color: #B4B4B4;
+	font-size: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+.youtube-icon{
+	color: #B4B4B4;
+	font-size: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+.facebook-icon{
+	color: #B4B4B4;
+	font-size: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.footer-ul { 
+	list-style-type:none;  
+	padding-left:0; 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 20px;
+
+}
+.footer-ul li { 
+	line-height:29px; 
+	font-size: 17px;
+	margin-top: 6px;
+}
+.footer-ul li a { 
+	color:#616161; 
+	text-decoration:none;
+}
+.footer-ul i { 
+	margin-right:10px;
+}
+.footer-ul li a:hover { 
+	color:#fff; 
+}
+
+.jumbotron img{
+	max-width: 100%;
+
+}
